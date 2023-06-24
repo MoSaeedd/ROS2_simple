@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<launch>
+  <executable
+    cmd="/enable_motors exercise_interfaces/srv/EnableMotors2 'enable: true'"
+    cwd="/home"
+    launch-prefix="ros2 service call"
+    output="screen"
+    >
+  </executable> 
+</launch>

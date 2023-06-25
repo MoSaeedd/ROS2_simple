@@ -10,6 +10,6 @@ The node is listening to the desired XYZ location and yaw angle and will then pu
 ## Demo
 
 This is a quick demo for the output, it was rather slow because it was run on a VM
-![](https://github.com/MoSaeedd/ROS2_simple/edit/main/rescue_quadrotor_exercise_1/img/demo.gif)
+![](https://github.com/MoSaeedd/ROS2_simple/blob/main/rescue_quadrotor_exercise_1/imgs/demo.gif)
 
 

@@ -1,4 +1,4 @@
-# Rescue Wauadrotor Exercise 1
+# Rescue Qauadrotor Exercise 1
 
 The original implementation is from https://gitlab.rob.uni-luebeck.de/robPublic/rescue-robotics/rescue_quadrotor_exercise
 Please follow the instructions there first 

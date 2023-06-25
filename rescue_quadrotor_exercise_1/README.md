@@ -7,3 +7,9 @@ Please follow the instructions there first
 The main goal is to control the pose of the quadrotor by entering the values throuh the terminal
 The node is listening to the desired XYZ location and yaw angle and will then publish velocity commands to the quadrotor
 
+## Demo
+
+This is a quick demo for the output, it was rather slow because it was run on a VM
+![](https://github.com/MoSaeedd/ROS2_simple/edit/main/rescue_quadrotor_exercise_1/img/demo.gif)
+
+

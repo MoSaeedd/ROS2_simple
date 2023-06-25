@@ -1,2 +1,2 @@
 # ROS2_simple
-A collection of simple ROS 2 projects
+I will be adding here some of the ROS2 projects & Assignments
